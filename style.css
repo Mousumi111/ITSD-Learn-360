@@ -211,7 +211,7 @@ text-align:center
 .shadow{
     width: 295px;
     height: 295px;
-    background: black;
+    background: rgba(0, 0, 0, 0.6);
     margin-top: -295px;
     position: absolute;
     opacity: 0.0;
@@ -222,8 +222,10 @@ text-align:center
 	opacity: 0.7;
 }
 .shadow h2{color: white;
-    margin-bottom: 111px;}
-.shadow h3{color:white}
+    margin-bottom: 111px;
+	font-family: 'Lato', sans-serif;}
+.shadow h3{color:white;
+font-family: 'Lato', sans-serif;}
 .shadow i{
     font-size: 20px;
     margin-top: 13px;
@@ -239,7 +241,9 @@ text-align:center
     border-bottom: 2px solid white;
     margin: auto;
 }
-.footer_border h3{}
+.footer_border h3{
+	font-family: 'Lato', sans-serif;
+}
 .top5{}
 .top6{
 	    width: 555px;
@@ -257,11 +261,13 @@ text-align:center
     font-size: 36px;
     color: white;
 	font-weight: bold;
+	font-family: 'Lato', sans-serif;
 }
 .our_trainers p{
 	    font-size: 24px;
     color: white;
     margin-bottom: 58px;
+	font-family: 'Lato', sans-serif;
 }
 .about_us{
     width: 295px;
@@ -291,6 +297,7 @@ text-align:center
 	color: white;
     margin-top: 37px;
     font-size: 24px;
+	font-family: 'Lato', sans-serif;
 }
 .follow_us{
 	    text-align: right;
