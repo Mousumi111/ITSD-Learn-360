@@ -45,8 +45,8 @@ margin-top: 26px;
 .banner_text{
     position: absolute;
     margin-top: -487px;
-    margin-left: 151px;
     text-align: left;
+    width: 100%;
 }
 .banner_text h2{
     font-size: 72px;
@@ -71,7 +71,7 @@ margin-top: 26px;
     margin: auto;
     border-radius: 37px;
     margin-bottom: 94px;
-    margin-left: 322px;
+    margin-left: 469px;
 
 }
 .button a{
