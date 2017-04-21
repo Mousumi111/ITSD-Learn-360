@@ -32,18 +32,20 @@ margin-top: 26px;
 
     font-size: 20px;
     color: white;
+	font-family: 'Lato', sans-serif;
 }
 .phone_number p{
  
     font-size: 20px;
     color: white;
+	font-family: 'Lato', sans-serif;
 }
 .banner{
 }
 .banner_text{
     position: absolute;
     margin-top: -487px;
-    margin-left: 190px;
+    margin-left: 151px;
     text-align: left;
 }
 .banner_text h2{
@@ -59,7 +61,7 @@ margin-top: 26px;
 .banner_text p{
 	    font-size: 36px;
     color: white;
-	    font-family: 'Roboto', sans-serif;
+	  font-family: 'Lato', sans-serif;
 }
 .button{
     text-align: center;
@@ -69,7 +71,8 @@ margin-top: 26px;
     margin: auto;
     border-radius: 37px;
     margin-bottom: 94px;
-    margin-left: 393px;
+    margin-left: 322px;
+
 }
 .button a{
 	font-size: 24px;
@@ -78,13 +81,17 @@ margin-top: 26px;
     margin-top: 30px;
     display: block;
     padding: 15px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 .about_us_new{
-		text-align: center;
-    margin-top: 46px;
+text-align:center
 }
-.about_us_new h2{}
+.about_us_new h2{
+	    font-family: 'Lato', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+	    margin-top: 52px;
+}
 .about_us_new h3{
 	    font-size: 24px;
     margin-top: 30px;
@@ -99,6 +106,7 @@ margin-top: 26px;
 	font-size: 17px;
     color: gray;
 	margin-bottom: 37px;
+	font-family: 'Lato', sans-serif;
 }
 .first_content{
 	    width: 358px;
@@ -122,6 +130,7 @@ margin-top: 26px;
     color: #;
     color: #414042;
     margin-bottom: 79px;
+	font-family: 'Lato', sans-serif;
 }
 .new_one{
 	height: 49px;
@@ -146,6 +155,7 @@ margin-top: 26px;
     padding: 0px 12px;
     color: gray;
     margin-bottom: 24px;
+	font-family: 'Lato', sans-serif;
 }
 .first_content h3{
     background-image: linear-gradient(to right,#94A5BF,#B9D3A0);
@@ -164,10 +174,12 @@ margin-top: 26px;
 .why_we_us{
 	text-align: center;
     margin-top: 50px;
+	
 }
 .why_we_us h2{
 	    margin-bottom: 30px;
     color: black;
+	    font-size: 36px;
 }
 .why_we_us h3{
 	    margin-bottom: 50px;
@@ -177,6 +189,7 @@ margin-top: 26px;
 	    font-size: 17px;
     margin-bottom: 106px;
 	    color: gray;
+		font-family: 'Lato', sans-serif;
 }
 .icon{
 	    width: 30px;
@@ -193,6 +206,7 @@ margin-top: 26px;
 }
 .text1 p{
 	       margin-bottom: 22px;
+		   font-family: 'Lato', sans-serif;
 }
 .shadow{
     width: 295px;
@@ -242,6 +256,7 @@ margin-top: 26px;
 .our_trainers h2{
     font-size: 36px;
     color: white;
+	font-weight: bold;
 }
 .our_trainers p{
 	    font-size: 24px;
@@ -284,6 +299,7 @@ margin-top: 26px;
 	    font-size: 24px;
     color: white;
     margin-top: 18px;
+	font-family: 'Lato', sans-serif;
 }
 .follow_us i{
 	    padding: 4px 7px;
