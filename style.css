@@ -123,12 +123,12 @@ text-align:center
 	font-family: 'Lato', sans-serif;
 }
 .first_content{
-
     background: #F5F5F5;
     text-align: center;
-	border-top: 4px solid #B5D19E;
+    border-top: 4px solid #B5D19E;
     margin-bottom: 74px;
     box-shadow: 0px 0px 25px -10px;
+    transition: 1s;
 }
 .first_content:hover{ box-shadow: 0px 0px 35px -7px;}
 .first_content h2{
@@ -155,22 +155,22 @@ text-align:center
     margin-bottom: 50px;
 }
 .new_one h2{
-	    margin-top: 37px;
+	margin-top: 37px;
     margin-bottom: 28px;
 	font-size: 30px;
 }
 .{}
 .first_content i{
-	    font-size: 67px;
+	font-size: 67px;
     color: #1f196c;
-    margin-bottom: 75px;
+	margin-bottom: 37px;
 }
 .first_content p{
     font-size: 15px;
-    padding: 0px 12px;
     color: gray;
-    margin-bottom: 24px;
-	font-family: 'Lato', sans-serif;
+    font-family: 'Lato', sans-serif;
+    padding: 10px 10px;
+    margin-bottom: 35px;
 }
 .first_content a h3{
     background-image: linear-gradient(to right,#94A5BF,#B9D3A0);
