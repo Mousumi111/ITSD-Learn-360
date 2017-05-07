@@ -1,0 +1,85 @@
+.header_bg{
+	background: rgba(0, 0, 0, 0.21);
+}
+.logo{
+    height: 100px;
+    width: 100px
+}
+.logo img{
+    height: 100px;
+    width: 100px
+}
+.phone_number{
+    float: right;
+}
+.phone_number_area{
+	text-align: right;
+}
+.phone_number_area h3{
+	font-size: 18px;
+    color: white;
+	font-family: 'Oswald', sans-serif;
+}
+.phone_number p{
+	font-size: 16px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    float: right;
+    margin-top: -5px;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+.phone{
+	width: 153px;
+    height: 34px;
+    border-bottom: 2px solid white;	}
+.footer_bg{
+    height: 66px;
+    width: 100%;
+    background: #c9c9c9;
+	height: 50px;
+
+}
+.footer{
+    text-align: right;
+}
+.footer_left{
+	text-align: left;
+}
+.footer_left a{}
+.footer_left a i{
+    text-decoration: none;
+    padding: 19px 2px;
+    font-size: 15px;
+}
+.footer p{
+    font-size: 14px;
+    margin-top: 14px;
+    color: #403e3e;
+}
+.footer  a{
+
+}
+.new{}
+.Office{
+	margin-top: 33px;
+    width: 100%;
+    background: white;
+    border-radius: 5px;
+    height: 146px;
+	margin-bottom: 100px;
+}
+.panel-heading a{
+	color: inherit;
+    text-decoration: none;
+}
+.panel-group a{
+	text-decoration:none
+}
+.panel-group a button{
+	color: #337ab7;
+    background: #c9c9c9;
+    border: black;
+    padding: 5px 10px;
+    border-radius: 2px;
+    margin-top: 20px;
+}
