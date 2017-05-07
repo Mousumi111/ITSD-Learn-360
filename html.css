@@ -83,3 +83,20 @@ font-family: 'Open Sans Condensed', sans-serif;
     border-radius: 2px;
     margin-top: 20px;
 }
+.footer_left p{
+	float: left;
+    font-size: 15px;
+    color: #337ab9;
+    margin-top: 16px;
+    margin-right: 9px;
+}
+.footer_left{
+	text-align: left;
+	
+}
+.footer_left a{}
+.footer_left a i{
+    text-decoration: none;
+    padding: 19px 2px;
+    font-size: 15px;
+}
